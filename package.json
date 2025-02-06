@@ -1,0 +1,19 @@
+{
+  "name": "parentdetector",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "Parent detector"
+  },
+  "license": "ISC",
+  "author": "Diwakar Thakur",
+  "type": "commonjs",
+  "main": "serial.js",
+  "scripts": {
+    "start" : "serial.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
