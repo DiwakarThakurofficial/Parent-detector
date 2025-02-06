@@ -11,7 +11,7 @@
   "type": "commonjs",
   "main": "serial.js",
   "scripts": {
-    "start" : "serial.js"
+    "start" : "node serial.js"
   },
   "dependencies": {
     "express": "^4.21.2"
